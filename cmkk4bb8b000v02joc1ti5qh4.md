@@ -5,6 +5,7 @@ seoDescription: "Discover the vast world of JavaScript event listeners beyond th
 datePublished: Sun Jan 18 2026 19:17:06 GMT+0000 (Coordinated Universal Time)
 cuid: cmkk4bb8b000v02joc1ti5qh4
 slug: js-events
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1768764447804/6e12520c-3a1f-45d6-8a0f-e267b3991a50.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1768763815492/af01dc0a-d59f-427a-aeda-7d7459b9b071.jpeg
 tags: javascript, dom, events, event-listener, event-listeners-in-javascript, javascript-events
 
